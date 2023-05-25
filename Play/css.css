@@ -1,0 +1,109 @@
+#navbar{
+    background-color: #E8E3F4;
+}
+#btn{
+    border-width: medium;
+    position: relative;
+    border-color: #7843E6;
+    background-color: #7843E6;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#btn:active{
+    background-color: #E8E3F4;
+}
+#search{
+    display: block;
+    position: absolute;
+    top: 140px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#play{
+    position: relative;
+    width: 350px;
+}
+#input{
+    background-color: #E8E3F4;
+    height: 45px;
+    border-width: medium;
+    border-style: solid;
+    outline: 0;
+    border-color: #7843E6;
+}
+#pesquisar{
+    color: white;
+    background-color: #7843E6;
+    border-width: medium;
+    border-style: solid;
+    outline: 0;
+    border-color: #7843E6;
+}
+#pesquisar:active{
+    background-color: #E8E3F4;
+}
+#footer{
+    background: #7843E6;
+    position: fixed; 
+    width: 100%; 
+    bottom: 0;
+}
+#p{
+    position: relative;
+    left: 10%;
+}
+#botao{
+    border-width: medium;
+    position: relative;
+    border-color: #7843E6;
+    background-color: #7843E6;
+}
+#play2{
+    position: relative;
+    width: 150px;
+    top: -10px;
+}
+#input2{
+    position: relative;
+    background-color: #E8E3F4;
+    width: 150px;
+    border-width: medium;
+    border-style: solid;
+    outline: 0;
+    border-color: #7843E6;
+}
+#btn2{
+    border-width: medium;
+    position: relative;
+    border-color: #7843E6;
+    background-color: #7843E6;
+    color: white;
+}
+#btn2:active{
+    background-color: #E8E3F4;
+}
+#pagination{
+    border-style: none;
+    background-color: #7843E6;
+    color: white;
+}
+#pagination:active{
+    background-color: #E8E3F4;
+}
+#lista{
+    background-color: #7843E6;
+}
+#divpesquisa{
+    position: relative;
+    width: 500px;
+    margin-top: -10px;
+}
+#microfone{
+    border-width: medium;
+    position: relative;
+    border-color: #7843E6;
+    background-color: #7843E6;
+}
+#microfone:active{
+    background-color: #E8E3F4;
+}
